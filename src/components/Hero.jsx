@@ -24,7 +24,7 @@ const Hero = () => (
         </div>
       </div>
       <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full">Payment Method</h1>
-      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Our team of experts uses a methodology to identify the credit cards most likely to fit y our needs. We examine annual percentage rates, annual fees.</p>
+      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Our team of experts uses a methodology to identify the credit cards most likely to fit your needs. We examine annual percentage rates, annual fees.</p>
     </div>
     <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
       <img src={robot} alt="billing" className="w-[100%] h-[100%] relative z-[5]"/>
